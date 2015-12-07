@@ -13,7 +13,9 @@ Step 1
 
     This can be almost anything, as any alpha numeric string is valid.
 
-#. Select Redis for the service and the type defaults to HA Redis.
+#. Select Redis for the service.
+
+    The type defaults to HA Redis.
 
 .. image:: images/createredis.png
    :align: center
@@ -25,7 +27,7 @@ Step 2
 
 #. Select a version to deploy.
 
-    ObjectRocket offers versions 2.8 and 3.0.
+    ObjectRocket offers Redis versions 2.8 and 3.0.
 
 #. Select a zone.
 
@@ -84,4 +86,4 @@ You can also connect with netcat/telnet::
 
 If you see similar results, you're connected to the instance and can perform database operations. Success!
 
-If you encounter any issues or just want some guidance, please reach out to our `support team <mailto:support@objectrocket.com>`_!
+If you have any issues or just need guidance, contact our `support team <mailto:support@objectrocket.com>`_.

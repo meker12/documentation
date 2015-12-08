@@ -105,6 +105,8 @@ Create a new instance
 
       Zones available: US-East-IAD3, US-West, EU-London, AP-HongKong, US-Chicago, AP-Sydney, and US-Dallas.
 
+      Encryption: Either True or False for encryption at rest (must be of boolean type).
+
    **redis**:
       Plans available: 500, 1000, 2500, 5000, 10000, 20000, 50000, 75000, and 100000.
 

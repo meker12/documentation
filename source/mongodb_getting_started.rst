@@ -35,21 +35,21 @@ Step 2
 
     We offer the latest version of MongoDB 2.4, 2.6, and 3.0. If you select 3.0, you can also select a storage engine (see below).
 
+#. Select a zone that suits your needs.
+
+    Zones are Rackspace and/or AWS Direct Connect zones, labeled by airport codes in that region. Check out the `zone map <http://objectrocket.com/features>`_ for more details.
+
 #. Select a plan that suits your needs. 
 
     Consider that as you grow you always add shards in your plan size when using a Sharded instance, but that isn't possible for a Replica Set. For more details, check out `plans and pricing <http://objectrocket.com/pricing>`_.
 
-#. Select a zone that suits your needs. 
-
-    Zones are Rackspace and/or AWS Direct Connect zones, labeled by airport codes in that region. Check out the `zone map <http://objectrocket.com/features>`_ for more details.
-
-#. Select a storage engine (v3.0 only).
+#. Select a storage engine (3.0 only).
 
     You can select WiredTiger or MMAPv1 for your storage engine when deploying MongoDB 3.0.
 
 #. Select encryption.
 
-    You can choose to encrypt MongoDB 2.6 or 3.0 instances provisioned in Virginia (IAD). Encryption for v3.0 requires WiredTiger for the storage engine and a plan minimum of 20GB.
+    You can choose to encrypt MongoDB 2.6 or 3.0 instances provisioned in Virginia (IAD). Encryption for 3.0 requires WiredTiger for the storage engine and a plan minimum of 20GB.
 
 .. image:: images/createmongo_2.png
    :align: center

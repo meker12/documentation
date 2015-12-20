@@ -25,19 +25,6 @@ Daily Backups
 
 Backups are taken once daily by default, but please talk to our `sales team <mailto:sales@objectrocket.com>`_ if you need a different schedule. Backups are taken per instance, and they're absolutely free when using our default retention period.
 
-Remote Instance
----------------
-
-We offer viewing MongoDB instances outside of our infrastructure in our Control Panel, and this lets you have another view into what's going on with your database.
-
-.. image:: images/remoteinstance.png
-   :align: center
-
-Remote Instance Backups
------------------------
-
-We also offer free backups for remote instances as well, all you need to do is add them to our Control Panel!
-
 Delayed Slaves
 --------------
 

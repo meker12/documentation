@@ -18,7 +18,7 @@ Activate your favorite [virtualenv](http://virtualenv.readthedocs.org/en/latest/
     cd source
     make clean html
 
-Your newly built HTML will live under ``source/_build/html/``. Open ``source/_build/html/index.html`` to see the root page.
+Your newly built HTML will live under ``_build/html/``. To open the newly built documentation, execute ``open _build/html/index.html`` to see the root page.
 
 Run ``make clean html`` or just ``make html`` from the ``source`` directory whenever you need a new build of the docs.
 

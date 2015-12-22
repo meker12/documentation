@@ -1,3 +1,5 @@
+`TESTING <http://www.objectrocket.com/mongodb/>`_
+
 MongoDB Overview
 ================
 
@@ -18,10 +20,10 @@ Sharded MongoDB instances are offered in 5GB, 20GB, 50GB, 100GB, and even larger
 In our sharded plans, an instance when created will start with:
 
 - 4 mongos servers
-- 3 config servers 
+- 3 config servers
 - 1 shard
 
-A shard is comprised of a three member replica set (1 Primary + 2 Secondaries). This is for data redundancy, fault tolerance, and provides us with the ability to do maintenances in a MongoDB best practice way. 
+A shard is comprised of a three member replica set (1 Primary + 2 Secondaries). This is for data redundancy, fault tolerance, and provides us with the ability to do maintenances in a MongoDB best practice way.
 
 These plans also come with Rackspace ServiceNet connectivity within the same datacenter, SSL connectivity, and AWS DirectConnect in our UK-London, US-East-IAD3, and US-West datacenters.
 

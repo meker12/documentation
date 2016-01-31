@@ -65,7 +65,11 @@ Instances you create appear under the Instances heading. Click the instance name
 
     Enter a name, username, and password, then click *Add Database* to confirm.
 
-    You can also add collections or more users with this interface by selecting the database name, as well as by using the ObjectRocket API or MongoDB shell.
+.. note::
+
+   Database users by default have full privileges to the specified database. You are able to create collections and indexes, as well as, read and write documents.  However, by default, they cannot perform administrative commands or interact with databases outside of itself.
+
+You can also add collections or more users with this interface by selecting the database name, as well as by using the ObjectRocket API or MongoDB shell.
 
 .. image:: images/adddatabase.png
    :align: center

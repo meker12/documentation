@@ -5,6 +5,10 @@ Kibana
 ------
 We include an instance of `Kibana <https://www.elastic.co/products/kibana/>`_ automatically configured to connect to your Elasticsearch cluster.  Kibana allows you to build rich visualizations of your Elasticseach data using charts and graphs.
 
+.. note::
+
+  The version of Kibana that your instance has will be based on the Elasticsearch version that you are running (4.1.3 => ES 1.7.3, 4.2.1 => ES 2.0.1, and 4.3.0 => ES 2.1)
+
 You can view the plain text and SSL URL addresses for Kibana under the **Connect** heading of the Control Panel.  Before you can access Kibana you will need to add Kibana-specific ACLs under the **Security** heading.
 
 ElasticHQ

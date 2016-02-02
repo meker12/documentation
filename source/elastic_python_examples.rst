@@ -1,7 +1,7 @@
-Python Driver Examples
+Python Client Examples
 ======================
 
-`Elasticsearch-py <https://elasticsearch-py.readthedocs.org>`_ is the recommended Python driver for working with Elasticsearch.
+`Elasticsearch-py <https://elasticsearch-py.readthedocs.org>`_ is the recommended Python client for working with Elasticsearch.
 
 Connecting 
 ------------

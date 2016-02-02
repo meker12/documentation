@@ -1,4 +1,4 @@
-PHP Driver Examples
+PHP Client Examples
 ===================
 
 Installation

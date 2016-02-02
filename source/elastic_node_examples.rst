@@ -1,10 +1,10 @@
-Node.js Driver Examples
+Node.js Client Examples
 ========================
 
 Installation
 ------------
 
-Installing the `Node.js driver <https://www.npmjs.com/package/elasticsearch>`_ is simple, using the usual npm install procedure:
+Installing the `Node.js client <https://www.npmjs.com/package/elasticsearch>`_ is simple, using the usual npm install procedure:
 
 ::
 
@@ -12,7 +12,7 @@ Installing the `Node.js driver <https://www.npmjs.com/package/elasticsearch>`_ i
 
 Connecting
 ------------
-The example below shows the connection settings using ``HTTPS``.  If you perfer to use ``HTTP``, you only need to change ``protocol: 'http'`` and ``port: 10202``. 
+The example below shows the connection settings using ``HTTPS``.  If you prefer to use ``HTTP``, you only need to change ``protocol: 'http'`` and ``port: 10202``. 
 
 .. code-block:: javascript
 

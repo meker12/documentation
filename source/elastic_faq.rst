@@ -29,7 +29,7 @@ Check out our `plans and pricing <http://www.objectrocket.com/pricing>`_, and cl
 What versions are supported?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We currently default to **1.7.3** and offer **2.0.0** via our Early Access program, but please contact `support@objectrocket.com <mailto:support@objectrocket.com>`_ if you need something different!
+We currently offer **1.7.x** and **2.x**, but please contact `support@objectrocket.com <mailto:support@objectrocket.com>`_ if you need something different!
 
 What kind of architecture is this using?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

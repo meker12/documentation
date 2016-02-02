@@ -39,7 +39,7 @@ You can view the plain text and SSL URL addresses for Kibana under the **Connect
 
 ElasticHQ
 ---------
-`ElasticHQ <http://www.elastichq.org/>`_ is a plugin that provides a web interface for monitoring, management, and querying your Elasticsearch cluster.  ElasticHQ is installed by default at ``/_plugin/HQ``.
+`ElasticHQ <http://www.elastichq.org/>`_ is a plugin that provides a web interface for monitoring, management, and querying your Elasticsearch cluster.  ElasticHQ is installed by default at ``/_plugin/HQ`` or ``/_plugin/hq`` (2.1+ use lowercase).
 
 Kopf
 ----

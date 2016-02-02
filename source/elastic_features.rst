@@ -56,7 +56,7 @@ AWS users in us-east-1 and eu-west-1 will automatically use dedicated 10Gbit AWS
 
 ServiceNet Access
 -----------------
-We offer ServiceNet connectivity within Rackspace datacenters, which correspond to US-East-IAD1, US-Dallas, and EU-London-LON5.
+We offer ServiceNet connectivity within Rackspace datacenters, which correspond to US-East-IAD1, US-Dallas, US-Chicago-ORD2, and EU-London-LON5.
 
 ACLSync
 --------

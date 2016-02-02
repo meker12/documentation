@@ -1,6 +1,25 @@
 PHP Driver Examples
 ===================
 
+Installation
+-------------
+One way of connecting to Elasticsearch with PHP is using `composer <https://getcomposer.org/>`_.  To do so, you'll need to include elasticsearch-php in your `composer.json` file:
+
+::
+
+  {
+      "require": {
+          "elasticsearch/elasticsearch": "~2.0"
+      }
+  }
+
+Then you'll want to install the client with composer:
+
+::
+
+  curl -s http://getcomposer.org/installer | php
+  php composer.phar install --no-dev
+
 Connecting
 -----------
 
@@ -65,7 +84,6 @@ Get a document
 .. code-block:: php
 
   <?php
-  
   require 'vendor/autoload.php';
   
   $hosts = [
@@ -94,7 +112,6 @@ Search (DSL)
 .. code-block:: php
 
   <?php
-  
   require 'vendor/autoload.php';
   
   $hosts = [
@@ -129,7 +146,6 @@ Delete a document
 .. code-block:: php
 
   <?php
-  
   require 'vendor/autoload.php';
   
   $hosts = [

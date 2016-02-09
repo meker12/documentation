@@ -64,4 +64,4 @@ The ObjectRocket platform can automatically retrieve IP addresses from your Rack
 
 Daily Backups
 -------------
-We automatically backup your data every 24 hours using Elasticsearch snapshots. Contact support@objectrocket.com to request a restore.
+We automatically backup your data every 24 hours using Elasticsearch snapshots and maintain a 2 week retention period Contact support@objectrocket.com to request a restore.

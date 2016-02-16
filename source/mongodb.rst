@@ -11,4 +11,5 @@ MongoDB
    mongodb_features
    mongodb_settings
    mongodb_utilities
+   mongo_stepdown_guide
    mongodb_scaling

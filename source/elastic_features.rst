@@ -39,7 +39,7 @@ You can view the plain text and SSL URL addresses for Kibana under the **Connect
 
 ElasticHQ
 ---------
-`ElasticHQ <http://www.elastichq.org/>`_ is a plugin that provides a web interface for monitoring, management, and querying your Elasticsearch cluster.  ElasticHQ is installed by default at ``/_plugin/HQ``.
+`ElasticHQ <http://www.elastichq.org/>`_ is a plugin that provides a web interface for monitoring, management, and querying your Elasticsearch cluster.  ElasticHQ is installed by default at ``/_plugin/HQ`` or ``/_plugin/hq`` (2.1+ uses lowercase).
 
 Kopf
 ----
@@ -56,7 +56,7 @@ AWS users in us-east-1 and eu-west-1 will automatically use dedicated 10Gbit AWS
 
 ServiceNet Access
 -----------------
-We offer ServiceNet connectivity within Rackspace datacenters, which correspond to US-East-IAD1, US-Dallas, and EU-London-LON5.
+We offer ServiceNet connectivity within Rackspace datacenters, which correspond to US-East-IAD1, US-Dallas, US-Chicago-ORD2, and EU-London-LON5.
 
 ACLSync
 --------

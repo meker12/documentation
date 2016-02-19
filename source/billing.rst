@@ -18,7 +18,7 @@ To read more about our trial Terms of Service, follow this `link <http://objectr
 What is "tiered pricing"?
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Tiered pricing is a way to save money as your data grows on the platform. It’s a graduated tier structure that means your price per GB goes down the bigger our footprint is. 
+Tiered pricing is a way to save money as your data grows on the platform. It’s a graduated tier structure that means your price per GB goes down the bigger our footprint is.
 
 Here's a link to our `pricing calculator <http://objectrocket.com/pricing>`_, which shows the costs for each tier.
 
@@ -30,9 +30,9 @@ Each database technology has its own subscription with its own anniversary date.
 I was billed up front, so what happens if I increase or reduce my footprint before my next bill?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ObjectRocket is a subscription based service that bills in advance. The subscription rate is based on the footprint that exists at the time of the transaction. 
+ObjectRocket is a subscription based service that bills in advance. The subscription rate is based on the footprint that exists at the time of the transaction.
 
-Because ObjectRocket subscriptions are billed a month in advance, any increases or decreases in usage are added as prorated adjustments on the next bill. 
+Because ObjectRocket subscriptions are billed a month in advance, any increases or decreases in usage are added as prorated adjustments on the next bill.
 
 For example: if you are charged for 10GB on the first of the month, but reduce your footprint to 5GB, you will receive a prorated credit. If instead you raise your footprint to 15GB, you will receive a prorated charge for the increase on your next anniversary date.
 
@@ -50,7 +50,7 @@ Visa, Mastercard, and American Express.
 What happens if my credit card is declined?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If your credit card issuer declines the transaction, or the credit card is expired or otherwise isn't allowing the transaction to go through, you will receive emails asking you to update your credit card information. 
+If your credit card issuer declines the transaction, or the credit card is expired or otherwise isn't allowing the transaction to go through, you will receive emails asking you to update your credit card information.
 
 .. note::
 
@@ -66,4 +66,4 @@ Here's a link directly to our `Terms of Service <http://objectrocket.com/tos>`_.
 Where can I get billing Support?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Questions about billing can be sent to our `billing team <mailto:billing@objectrocket.com>`_.
+Questions about billing can be sent to our `billing team <mailto:billing@objectrocket.com>`_. Billing staff hours are Monday-Friday, 9AM-5PM CT. If you open a ticket at night or on the weekend someone will answer the next business day.

@@ -49,6 +49,30 @@ Create, read, update and destroy are the four basic functions of persistent stor
 
    'del' is a reserved keyword in the Python syntax. Therefore redis-py uses 'delete' instead.
 
+SSL
+---
+
+Redis-py supports SSL encryption, provided you pass in the appropriate certificates.
+
+.. code-block:: python
+
+    import redis
+    import sys
+
+    if __name__ == "__main__":
+      # Be sure to pip install redis and ssl.
+      r = redis.Redis(host=sys.argv[1], ssl=True, port=6380, password=sys.argv[2], ssl_ca_certs=sys.argv[3])
+      r.set('foo', 'bar')
+      value = r.get('foo')
+      print "This is the value of foo: " + value
+
+With the above example, we can pass in the relevant values:
+
+.. code-block:: bash
+
+    python test.py 69edaf7ca8264890bf9e0ce919f90b.publb.rackspaceclouddb.com <authentication-password> ca-cert.pem
+    This is the value of foo: bar
+
 More Information
 ----------------
 

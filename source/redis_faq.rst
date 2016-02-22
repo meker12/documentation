@@ -44,7 +44,7 @@ We currently offer migration assistance to customers moving to a 20GB or larger 
 What software is being used?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The offering is based on Redis 2.8.13 with Sentinel for high availability. All instances are Highly Available, and all instances persist to disk.
+The offering is based on Redis 2.8.22 with Sentinel for high availability. All instances are Highly Available, and all instances persist to disk.
 
 What does the system architecture look like?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ Like this!
 What version of Redis is supported?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As of 07/10/2015 ObjectRocket supports Redis 2.8.17.  Contact our `support team <mailto:support@objectrocket.com>`_ for help with other versions.
+As of 02/18/2015 ObjectRocket supports Redis 2.8.22 and 3.0.4.  Contact our `support team <mailto:support@objectrocket.com>`_ for help with other versions.
 
 Do you support Redis Cluster?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

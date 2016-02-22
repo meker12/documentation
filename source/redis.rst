@@ -7,3 +7,4 @@ Redis
    redis_getting_started
    redis_connection_examples
    redis_faq
+   redis_stunnel

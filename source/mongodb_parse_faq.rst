@@ -10,7 +10,7 @@ With their help we're able to transition any current customer from their platfor
 
 .. note::
     
-    Until March 31st 2016, the first Parse specific instance you create will have 15% off for a full year.
+    Until March 31st 2016, the first Parse instance you create will have 15% off for a full year. Sign up `here <https://objectrocket.com/parse>`_
 
 Parse Resources
 ~~~~~~~~~~~~~~~

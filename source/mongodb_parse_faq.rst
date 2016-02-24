@@ -10,7 +10,22 @@ With their help we're able to transition any current customer from their platfor
 
 .. note::
     
-    Until March 31st 2016, the first Parse instance you create will have 15% off for a full year. Sign up `here <https://objectrocket.com/parse>`_
+    Until March 31st 2016, the first Parse instance you create will have 15% off for a full year. Sign up `here <https://objectrocket.com/parse>`_!
+
+Why use ObjectRocket?
+~~~~~~~~~~~~~~~~~~~~~
+
+ObjectRocket's MongoDB-as-a-Service makes it easy to deploy and run your database by providing a production-ready instance instantly, tools to automate operations, and a fully staffed team of engineers and database administrators so you can focus on your application.
+
++---------------------+----------------------------------------+-----------------+
+| What you care about |         ObjectRocket                   | Other Providers |
++=====================+========================================+=================+
+| Performance tuned   | Our tech stack is optimized for        | column 3        |
+| for your            | MongoDB from the ground up, including  |                 |
+| mobile app          | PCIe flash-based infrastructure,       |                 |
+|                     | high memory-to-disk ratios, and        |                 |
+|                     | container-based virtualization.        |                 |
++---------------------+----------------------------------------+-----------------+
 
 Parse Resources
 ~~~~~~~~~~~~~~~

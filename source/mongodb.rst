@@ -13,3 +13,4 @@ MongoDB
    mongodb_utilities
    mongo_stepdown_guide
    mongodb_scaling
+   mongodb_parse_faq

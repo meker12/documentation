@@ -51,6 +51,11 @@ Does ObjectRocket support the Parse Dashboard?
 
 Unfortunately the open source `Parse Server <https://github.com/ParsePlatform/parse-server>`_ does not include their dashboard. If you need to view collections and documents with a UI, we'd recommend `MongoChef <http://3t.io/>`_ or `Robomongo <https://robomongo.org/>`_.
 
+Does ObjectRocket support Parse Push?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ObjectRocket only handles the MongoDB portion of the Parse server, but if you follow the instructions for enabling `Parse Server Push Notifications <http://blog.parse.com/announcements/parse-server-push-notifications/>`_ you should be able to utilize that feature as expected.
+
 Parse Resources
 ~~~~~~~~~~~~~~~
 

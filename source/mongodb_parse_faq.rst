@@ -6,7 +6,7 @@ If you have any questions about anything in this FAQ, please don't hesitate to r
 Why migrate from Parse?
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-On January 28th 2016 Parse announced they'd be `shutting down their service <http://blog.parse.com/announcements/moving-on/>`_, leaving quite a few customers questioning where they'd be moving. Luckily we've worked closely with Parse on creating a MongoDB instance on our platform in several different sizes to fit any Parse customers needs.
+On January 28th 2016 Parse announced they'd be `shutting down their service <http://blog.parse.com/announcements/moving-on/>`_, leaving quite a few customers questioning where they'd be moving. Luckily we've worked closely with Parse on creating a MongoDB instance on our platform in several different sizes to fit any Parse customer's needs.
 
 With their help we're able to transition any current customer from their platform to ours, and our support is ready to jump in if you have any questions about the process.
 
@@ -32,7 +32,7 @@ This can be a difficult decision due to the compression available in RocksDB, wh
 .. image:: images/parse_data_storage.png
    :align: center
 
-Our Parse tuned instances are available in quite a few different sizes to fit your workload. Plan sizes are 20GB, 50GB, 100GB, 250GB, and 500GB for our compressed instances using WiredTiger. We also offer uncompressed MMAPv1 instances, designed for smaller deployments, available in 5GB and 20GB.
+Our Parse-tuned instances are available in quite a few different sizes to fit your workload. Plan sizes are 20GB, 50GB, 100GB, 250GB, and 500GB for our compressed instances using WiredTiger. We also offer uncompressed MMAPv1 instances, designed for smaller deployments, available in 5GB and 20GB.
 
 .. note::
 
@@ -56,7 +56,7 @@ As our MongoDB instances have ties to both Rackspace ServiceNet and AWS DirectCo
 What do I do without auto-indexing?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ObjectRocket has some of the best MongoDB DBA's, and was founded by a MongoDB master with support in mind. Our DBA and Support staff are more than happy to help review any slow qeuries and implement the indexes on your behalf! We'll likely have a few more questions than you're used to, but rest assured we're very comfortable with code and gleaning the best possible performance from any query pattern.
+ObjectRocket has some of the best MongoDB DBAs, and was founded by a MongoDB master with support in mind. Our DBA and Support staff are more than happy to help review any slow qeuries and implement the indexes on your behalf! We'll likely have a few more questions than you're used to, but rest assured we're very comfortable with code and gleaning the best possible performance from any query pattern.
 
 Does ObjectRocket support the Parse Dashboard?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

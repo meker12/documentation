@@ -34,8 +34,10 @@ This can be a difficult decision due to the compression available in RocksDB, wh
 
 Our Parse tuned instances are available in quite a few different sizes to fit your workload. Plan sizes are 20GB, 50GB, 100GB, 250GB, and 500GB for our compressed instances using WiredTiger. We also offer uncompressed MMAPv1 instances, designed for smaller deployments, available in 5GB and 20GB.
 
-If you have any questions about what size to choose, we recommend reaching out to our `support team <mailto:support@objectrocket.com>`_.
+.. note::
 
+    If you have any questions about what size to choose, we recommend reaching out to our `support team <mailto:support@objectrocket.com>`_.
+    
 Where should I host my Parse API server?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

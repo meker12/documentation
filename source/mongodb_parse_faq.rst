@@ -37,7 +37,17 @@ Our Parse tuned instances are available in quite a few different sizes to fit yo
 .. note::
 
     If you have any questions about what size to choose, we recommend reaching out to our `support team <mailto:support@objectrocket.com>`_.
-    
+
+How do I migrate to ObjectRocket?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We've written a thorough `migration guide <https://objectrocket.com/blog/mongodb/move-your-parse-data-to-objectrocket>`_ which outlines in detail how to migrate to our platform.
+
+I'm following the migration guide, but I can't get my database migrated over to ObjectRocket. What should I do?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ Contact our `support team <mailto:support@objectrocket.com>`_ and we'll walk you through it!
+
 Where should I host my Parse API server?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

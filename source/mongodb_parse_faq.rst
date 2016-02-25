@@ -19,6 +19,7 @@ Why use ObjectRocket?
 
 ObjectRocket's MongoDB-as-a-Service makes it easy to deploy and run your database by providing a production-ready instance instantly, tools to automate operations, and a fully staffed team of engineers and database administrators so you can focus on your application. Here are the highlights:
 
+    * Redundancy built in with automatic HA failover at the mongoD level, and redundant mongoS tier.
     * Our tech stack is optimized for MongoDB from the ground up, including PCIe flash-based infrastructure, high memory-to-disk ratios, and container-based virtualization.
     * We have the best MongoDB support specialists and DBA experts, bar none, and 24x7x365 support, whether you are a 5GB or a 5TB customer.
     * We have competitive pricing with price breaks as your data needs grow.

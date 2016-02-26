@@ -33,7 +33,7 @@ This can be a difficult decision due to the compression available in RocksDB, wh
 .. image:: images/parse_data_storage.png
    :align: center
 
-Our Parse-tuned instances are available in quite a few different sizes to fit your workload. Plan sizes are 20GB, 50GB, 100GB, 250GB, and 500GB for our compressed instances using WiredTiger. We also offer uncompressed MMAPv1 instances, designed for smaller deployments, available in 5GB and 20GB.
+Our Parse-tuned instances are available in quite a few different sizes to fit your workload. Plan sizes are 20GB, 50GB, 100GB, 250GB, and 500GB for our compressed instances using WiredTiger. We highly recommend using this option as it's going to be the closest option to what Parse was using. We also offer uncompressed MMAPv1 instances, designed for smaller deployments, available in 5GB and 20GB.
 
 .. note::
 
@@ -52,7 +52,7 @@ I'm following the migration guide, but I can't get my database migrated over to 
 Where should I host my Parse API server?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As our MongoDB instances have ties to both Rackspace ServiceNet and AWS DirectConnect, we would recommend using `Rackspace Cloud <https://www.rackspace.com/en-us/cloud>`_ servers or an AWS instance in the US-East zone. Rackspace also offers support for AWS under our `Fanatical AWS <https://www.rackspace.com/en-us/managed-aws>`_ umbrella.
+As our MongoDB instances have ties to both Rackspace ServiceNet and AWS DirectConnect, we would recommend using `Rackspace Cloud <https://www.rackspace.com/en-us/cloud>`_ servers or an AWS instance in the US-East zone. Rackspace also offers support for AWS under our `Fanatical AWS <https://www.rackspace.com/en-us/managed-aws>`_ umbrella. Another option is `Carina <https://getcarina.com/>`_, which is a simple Docker container option.
 
 What do I do without auto-indexing?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

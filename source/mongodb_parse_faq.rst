@@ -57,7 +57,7 @@ As our MongoDB instances have ties to both Rackspace ServiceNet and AWS DirectCo
 What do I do without auto-indexing?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ObjectRocket has some of the best MongoDB DBAs, and was founded by a MongoDB master with support in mind. Our DBA and Support staff are more than happy to help review any slow qeuries and implement the indexes on your behalf! We'll likely have a few more questions than you're used to, but rest assured we're very comfortable with code and gleaning the best possible performance from any query pattern.
+ObjectRocket has some of the best MongoDB DBAs, and was founded by a MongoDB master with support in mind. Our DBA and Support staff are more than happy to help review any slow queries and implement the indexes on your behalf! We'll likely have a few more questions than you're used to, but rest assured we're very comfortable with code and gleaning the best possible performance from any query pattern.
 
 Does ObjectRocket support the Parse Dashboard?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

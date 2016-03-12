@@ -74,7 +74,7 @@ Output from above:
 Additional reading
 ------------------
 
-If you need more help with `redigo`, here are some links to more documentation:
+You can learn more about `redigo` from the following resources:
 
 * `redigo FAQ <https://github.com/garyburd/redigo/wiki/FAQ>`_
 * `redigo API Documentation <http://godoc.org/github.com/garyburd/redigo/redis>`_
